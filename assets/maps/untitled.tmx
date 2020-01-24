@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.2" orientation="orthogonal" renderorder="right-down" width="6" height="1" tilewidth="64" tileheight="64" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" name="gtrsr" tilewidth="64" tileheight="64" tilecount="5" columns="0">
+  <grid orientation="orthogonal" width="1" height="1"/>
+  <tile id="0">
+   <image width="64" height="64" source="../../../../../Pictures/Art, I guess/game_related/Tiles/proto1.png"/>
+  </tile>
+  <tile id="1">
+   <image width="64" height="64" source="../../../../../Pictures/Art, I guess/game_related/Tiles/proto2.png"/>
+  </tile>
+  <tile id="2">
+   <image width="64" height="64" source="../../../../../Pictures/Art, I guess/game_related/Tiles/proto3.png"/>
+  </tile>
+  <tile id="3">
+   <image width="64" height="64" source="../../../../../Pictures/Art, I guess/game_related/Tiles/proto4.png"/>
+  </tile>
+  <tile id="4">
+   <image width="64" height="64" source="../../../../../Pictures/Art, I guess/game_related/Tiles/proto5.png"/>
+  </tile>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="6" height="1">
+  <data encoding="base64">
+   AQAAAAIAAAADAAAABAAAAAUAAAAAAAAA
+  </data>
+ </layer>
+</map>

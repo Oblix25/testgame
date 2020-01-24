@@ -1,0 +1,32 @@
+{
+    "image": {
+        "title": "./assets/art/title.png",
+        "sky": "./assets/art/sky.png",
+        "ground": "./assets/sprites/ground.png",
+        "player": "./assets/sprites/player.png",
+        "playerboost": "./assets/sprites/playerboost.png",
+        "crosshair": "./assets/sprites/crosshair.png",
+        "eye": "./assets/sprites/eye.png",
+        "untitled": "./assets/sprites/untitled.png",
+        "eye1": "./assets/sprites/eye1.png",
+        "eye2": "./assets/sprites/eye2.png",
+        "eye3": "./assets/sprites/eye3.png",
+        "proto_player": "./assets/sprites/protoplayer.png",
+        "bullet": "./assets/sprites/bullet.png",
+        "bulletR": "./assets/sprites/bulletR.png"
+
+
+    },
+
+    "audio": {
+
+    },
+
+    "atlus": {
+
+    },
+
+    "spreadsheet": {
+
+    }
+}
